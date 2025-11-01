@@ -1,7 +1,7 @@
 # ============================================================================
 # VISUALISATIONS AVANCÉES AVEC GGPLOT2
 # Auteur: Freud GUEDOU
-# Date: Mars 2025
+# Date: Juin 2025
 # Description: Graphiques professionnels pour l'analyse des ventes
 # ============================================================================
 

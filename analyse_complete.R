@@ -1,7 +1,7 @@
 # ============================================================================
 # ANALYSE STATISTIQUE COMPLÈTE DES VENTES
 # Auteur: Freud GUEDOU
-# Date: Mars 2025
+# Date: Juin 2025
 # Description: Analyse descriptive, visualisations et tests statistiques
 # ============================================================================
 

@@ -1,7 +1,7 @@
 # 📊 Analyse Statistique des Ventes avec R
 
 **Auteur:** Freud GUEDOU  
-**Date:** Mars 2025  
+**Date:** Juin 2025  
 **Technologies:** R, ggplot2, dplyr, tidyr
 
 ## 📋 Description du Projet

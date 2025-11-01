@@ -1,0 +1,63 @@
+# Histoire et fichiers système
+.Rhistory
+.Rapp.history
+.DS_Store
+Thumbs.db
+
+# Données de session
+.RData
+.Ruserdata
+
+# Fichiers temporaires
+*~
+*.tmp
+*.bak
+*.swp
+
+# Dossier RStudio
+.Rproj.user/
+*.Rproj
+
+# Outputs (optionnel - décommenter si vous ne voulez pas versionner les graphiques)
+# outputs/
+# *.png
+# *.pdf
+
+# Données sensibles (si applicable)
+*.csv.bak
+data/raw/
+data/confidential/
+
+# Packages R compilés
+*.o
+*.so
+*.dll
+
+# Rapports générés
+*.html
+*.pdf
+*.docx
+
+# Cache knitr/R Markdown
+*_cache/
+*_files/
+
+# OAuth tokens
+.httr-oauth
+
+# Environnements virtuels R
+renv/
+renv.lock
+
+# Fichiers système Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Miniatures Windows
+Thumbs.db
+ehthumbs.db
+
+# Dossier de configuration IDE
+.vscode/
+.idea/

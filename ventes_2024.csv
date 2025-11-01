@@ -1,0 +1,111 @@
+date,produit,quantite,prix_unitaire,montant_total,region,mode_paiement
+2024-01-01,Électronique,5,25000,125000,Sud,Mobile Money
+2024-01-01,Vêtements,12,5000,60000,Nord,Cash
+2024-01-01,Alimentation,25,1500,37500,Est,Cash
+2024-01-02,Livres,8,3000,24000,Ouest,Carte
+2024-01-02,Électronique,3,30000,90000,Sud,Mobile Money
+2024-01-02,Vêtements,15,4500,67500,Nord,Mobile Money
+2024-01-03,Alimentation,30,1200,36000,Est,Cash
+2024-01-03,Électronique,4,28000,112000,Sud,Carte
+2024-01-03,Livres,10,2500,25000,Ouest,Cash
+2024-01-04,Vêtements,20,5500,110000,Nord,Mobile Money
+2024-01-04,Alimentation,18,1800,32400,Est,Cash
+2024-01-04,Électronique,6,26000,156000,Sud,Carte
+2024-01-05,Livres,12,3500,42000,Ouest,Mobile Money
+2024-01-05,Vêtements,18,4800,86400,Nord,Cash
+2024-01-05,Alimentation,22,1600,35200,Est,Mobile Money
+2024-01-06,Électronique,7,27000,189000,Sud,Mobile Money
+2024-01-06,Livres,9,2800,25200,Ouest,Cash
+2024-01-06,Vêtements,14,5200,72800,Nord,Carte
+2024-01-07,Alimentation,28,1400,39200,Est,Cash
+2024-01-07,Électronique,5,29000,145000,Sud,Mobile Money
+2024-01-08,Vêtements,16,5100,81600,Nord,Mobile Money
+2024-01-08,Livres,11,3200,35200,Ouest,Cash
+2024-01-08,Alimentation,24,1700,40800,Est,Cash
+2024-01-09,Électronique,8,25500,204000,Sud,Carte
+2024-01-09,Vêtements,19,4700,89300,Nord,Mobile Money
+2024-01-10,Alimentation,26,1550,40300,Est,Cash
+2024-01-10,Livres,13,3100,40300,Ouest,Mobile Money
+2024-01-10,Électronique,4,31000,124000,Sud,Mobile Money
+2024-01-11,Vêtements,17,5300,90100,Nord,Cash
+2024-01-11,Alimentation,21,1650,34650,Est,Mobile Money
+2024-01-12,Électronique,6,28500,171000,Sud,Carte
+2024-01-12,Livres,10,2900,29000,Ouest,Cash
+2024-01-13,Vêtements,22,4900,107800,Nord,Mobile Money
+2024-01-13,Alimentation,27,1450,39150,Est,Cash
+2024-01-14,Électronique,9,26500,238500,Sud,Mobile Money
+2024-01-14,Livres,14,3300,46200,Ouest,Carte
+2024-01-15,Vêtements,13,5400,70200,Nord,Cash
+2024-01-15,Alimentation,23,1750,40250,Est,Mobile Money
+2024-01-16,Électronique,7,27500,192500,Sud,Mobile Money
+2024-01-16,Livres,12,2700,32400,Ouest,Cash
+2024-01-17,Vêtements,21,5000,105000,Nord,Mobile Money
+2024-01-17,Alimentation,29,1550,44950,Est,Cash
+2024-01-18,Électronique,5,29500,147500,Sud,Carte
+2024-01-18,Livres,11,3400,37400,Ouest,Mobile Money
+2024-01-19,Vêtements,18,4850,87300,Nord,Cash
+2024-01-19,Alimentation,25,1650,41250,Est,Mobile Money
+2024-01-20,Électronique,8,26800,214400,Sud,Mobile Money
+2024-01-20,Livres,15,3000,45000,Ouest,Cash
+2024-01-21,Vêtements,19,5150,97850,Nord,Carte
+2024-01-21,Alimentation,26,1500,39000,Est,Cash
+2024-01-22,Électronique,6,28800,172800,Sud,Mobile Money
+2024-01-22,Livres,13,2850,37050,Ouest,Mobile Money
+2024-01-23,Vêtements,20,4950,99000,Nord,Cash
+2024-01-23,Alimentation,24,1700,40800,Est,Mobile Money
+2024-01-24,Électronique,10,25800,258000,Sud,Carte
+2024-01-24,Livres,16,3150,50400,Ouest,Cash
+2024-01-25,Vêtements,17,5250,89250,Nord,Mobile Money
+2024-01-25,Alimentation,28,1600,44800,Est,Cash
+2024-01-26,Électronique,7,27800,194600,Sud,Mobile Money
+2024-01-26,Livres,14,2950,41300,Ouest,Carte
+2024-01-27,Vêtements,23,5050,116150,Nord,Cash
+2024-01-27,Alimentation,22,1650,36300,Est,Mobile Money
+2024-01-28,Électronique,9,26200,235800,Sud,Mobile Money
+2024-01-28,Livres,12,3250,39000,Ouest,Cash
+2024-01-29,Vêtements,16,4800,76800,Nord,Carte
+2024-01-29,Alimentation,27,1550,41850,Est,Cash
+2024-01-30,Électronique,8,28200,225600,Sud,Mobile Money
+2024-01-30,Livres,15,2900,43500,Ouest,Mobile Money
+2024-01-31,Vêtements,21,5100,107100,Nord,Cash
+2024-01-31,Alimentation,25,1700,42500,Est,Mobile Money
+2024-02-01,Électronique,6,29800,178800,Sud,Carte
+2024-02-01,Livres,13,3100,40300,Ouest,Cash
+2024-02-02,Vêtements,19,4900,93100,Nord,Mobile Money
+2024-02-02,Alimentation,26,1600,41600,Est,Cash
+2024-02-03,Électronique,10,25500,255000,Sud,Mobile Money
+2024-02-03,Livres,17,3050,51850,Ouest,Carte
+2024-02-04,Vêtements,18,5200,93600,Nord,Cash
+2024-02-04,Alimentation,23,1750,40250,Est,Mobile Money
+2024-02-05,Électronique,7,27200,190400,Sud,Mobile Money
+2024-02-05,Livres,14,2850,39900,Ouest,Cash
+2024-02-06,Vêtements,22,5000,110000,Nord,Carte
+2024-02-06,Alimentation,28,1500,42000,Est,Cash
+2024-02-07,Électronique,9,26500,238500,Sud,Mobile Money
+2024-02-07,Livres,16,3200,51200,Ouest,Mobile Money
+2024-02-08,Vêtements,20,4850,97000,Nord,Cash
+2024-02-08,Alimentation,24,1650,39600,Est,Mobile Money
+2024-02-09,Électronique,8,28500,228000,Sud,Carte
+2024-02-09,Livres,15,2950,44250,Ouest,Cash
+2024-02-10,Vêtements,17,5150,87550,Nord,Mobile Money
+2024-02-10,Alimentation,27,1550,41850,Est,Cash
+2024-02-11,Électronique,11,25200,277200,Sud,Mobile Money
+2024-02-11,Livres,18,3100,55800,Ouest,Carte
+2024-02-12,Vêtements,21,4950,103950,Nord,Cash
+2024-02-12,Alimentation,25,1700,42500,Est,Mobile Money
+2024-02-13,Électronique,6,29200,175200,Sud,Mobile Money
+2024-02-13,Livres,13,2900,37700,Ouest,Cash
+2024-02-14,Vêtements,24,5300,127200,Nord,Carte
+2024-02-14,Alimentation,29,1600,46400,Est,Cash
+2024-02-15,Électronique,9,26800,241200,Sud,Mobile Money
+2024-02-15,Livres,16,3250,52000,Ouest,Mobile Money
+2024-02-16,Vêtements,19,5050,95950,Nord,Cash
+2024-02-16,Alimentation,26,1650,42900,Est,Mobile Money
+2024-02-17,Électronique,7,27600,193200,Sud,Carte
+2024-02-17,Livres,14,2850,39900,Ouest,Cash
+2024-02-18,Vêtements,22,4900,107800,Nord,Mobile Money
+2024-02-18,Alimentation,28,1550,43400,Est,Cash
+2024-02-19,Électronique,10,25800,258000,Sud,Mobile Money
+2024-02-19,Livres,17,3150,53550,Ouest,Carte
+2024-02-20,Vêtements,20,5100,102000,Nord,Cash
+2024-02-20,Alimentation,24,1700,40800,Est,Mobile Money
